@@ -1,4 +1,4 @@
-# Dynamic Ecosystem Monitor Offline
+# 🚀 Dynamic Ecosystem Monitor Offline
 
 ## Overview
 This is an offline environmental monitoring application built for the "Google - The Gemma 3n Impact Challenge" on Kaggle. It leverages the Gemma 3n model to process multimodal data (images, audio, and vibration) to detect plant health, environmental sounds, and seismic activity, providing real-time alerts and risk visualizations. Designed for remote areas, it supports sustainability and crisis response with privacy-first, on-device performance.

@@ -12,10 +12,10 @@ This is an offline environmental monitoring application built for the "Google - 
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Farrel0xx/Dynamic-Ecosystem-Monitor.git
-   cd Dynamic-Ecosystem-Monitor
-   ```
+```bash
+git clone https://github.com/Farrel0xx/Dynamic-Ecosystem-Monitor.git
+cd Dynamic-Ecosystem-Monitor
+```
 
 2. Install dependencies:
 ```bash
